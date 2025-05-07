@@ -53,7 +53,7 @@ function Login() {
         />
         <button
           onClick={handleLogin}
-          className="w-full bg-blue-600 text-white py-2 rounded"
+          className="w-full bg-red-600 text-white py-2 rounded"
         >
           Login
         </button>
